@@ -9,57 +9,23 @@ Image 1 - ArtworkoftheKantoRegion
 ```
 ## Introduction
 
-WelcometotheworldofPokémon,whereyouwillembarkonanepicjourney
-through the Kanto region, capturing, training, and battling Pokémon to
-become theultimate PokémonTrainer.If youwereacoolchildgrowingup,
-you were definitely a Pokémon fan, from collecting cards, playing the
-Nintendogamesandobsessingovertheanimeadaptation.
+Welcome to the world of Pokémon, where you will embark on an epic journey through the Kanto region, capturing, training, and battling Pokémon to become the ultimate Pokémon Trainer. If you were a cool child growing up, you were definitely a Pokémon fan, from collecting cards, playing the Nintendo games and obsessing over the anime adaptation. 
 
-Inthis game, you willnavigate through various cities,each with its unique
-Pokémonencountersandchallenges.AsaTrainer,yourjourneywillbefilled
-withbattles againstGymLeaders,trainingyourPokémonandexploringthe
+In this game, you will navigate through various cities, each with its unique Pokémon encounters and challenges. As a Trainer, your journey will be filled with battles against Gym Leaders, training your Pokémon and exploring the vast Kanto region. Your progress, including your Pokémon team, badges, and location, will be saved, allowing you to continue your adventure from where you left off.
 
-
-WIA1002-DataStructure
-
-vastKantoregion.Yourprogress,includingyourPokémonteam,badges,and
-location,willbesaved, allowingyou tocontinueyouradventurefromwhere
-youleftoff.
 
 ## ProblemStatement
 
-Theobjectiveof thisprojectisto developatext-basedPokémongamethat
-captures the essence of the beloved Pokémon franchise, focusingon the
-Kanto region. The game will be designed to run in a Text-based User
-Interface(TUI)butifyouarewilling,youcan improveitanduseaGraphical
-UserInterface(GUI),utilizingJavaastheprogramminglanguage.Theproject
-aims to leverage your probleming solving skills while helping you develop
-yourconceptsofDataStructures(DS)andbasicgamelogic.
+The objective of this project is to develop a text-based Pokémon game that captures the essence of the beloved Pokémon franchise, focusing on the Kanto region. The game will be designed to run in a Text-based User Interface (TUI) but if you are willing, you can improve it and use a Graphical User Interface (GUI), utilizing Java as the programming language. The project aims to leverage your probleming solving skills while helping you develop your concepts of Data Structures (DS) and basic game logic.
 
-Thegamewillfeatureavarietyofelements,includingnavigatingthroughthe
-Kantoregion,capturingandtrainingPokémon,battlingagainstGymLeaders,
-and exploring the game's mechanicssuch as levelingup,savingprogress,
-and managing the player's team. The gamewill alsoincorporate dynamic
-weather systems, challenging wild Pokémonencounters, and a system for
-playerstoevolvetheirPokémon.
+The game will feature a variety of elements, including navigating through the Kanto region, capturing and training Pokémon, battling against Gym Leaders, and exploring the game's mechanics such as leveling up, saving progress, and managing the player's team. The game will also incorporate dynamic weather systems, challenging wild Pokémon encounters, and a system for players to evolve their Pokémon.
+
 
 ## MainFeatures(13Marks)
 
-### 1. Path of Champions - RegionExplorer( 1. 5 mark)
+### 1. Path of Champions - RegionExplorer (1.5 mark)
 
-TheKantoMapis theheartofyourjourney.Eachcity ispartofthejourney
-and giving the player the ability to move around and do different stuff in
-different citiesis crucial.Thejourneystartsintheplayer’shometowncalled
-“Pallet Town”. Each city [except Pallet town and Lavender Town] has its
-uniqueGymandGymleaders[moreinformation].EachCitywillalsohaveits
-own unique set of wild Pokémon the player can fight to train their own
-Pokémon, you can select each set as you like, but stick to the Pokémon
-found in the Kanto region. Try to keep the level of wild Pokémonslightly
-belowbutclosetotheGymTrainer’sPokémontoensuretheplayercantrain
-properlyforeachregion.
-
-
-WIA1002-DataStructure
+The Kanto Map is the heart of your journey. Each city is part of the journey and giving the player the ability to move around and do different stuff in different cities is crucial. The journey starts in the player’s home town called “Pallet Town”. Each city [except Pallet town and Lavender Town] has its unique Gym and Gym leaders [more information]. Each City will also have its own unique set of wild Pokémon the player can fight to train their own Pokémon, you can select each set as you like, but stick to the Pokémon found in the Kanto region . Try to keep the level of wild Pokémon slightly below but close to the Gym Trainer’s Pokémon to ensure the player can train properly for each region.
 
 **ImplementationTips:**
 Eachcitycanbeanode,andthepathscanbeedges.Ignorethebluedotson
