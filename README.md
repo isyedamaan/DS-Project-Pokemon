@@ -1,1 +1,3 @@
-*You can find the latest PDF of the project description here. \n Thank you.
+#You can find the latest PDF of the project description here. 
+
+Thank you.
